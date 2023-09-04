@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/amiibo/static/css/main.342f8746.css",
+    "main.js": "/amiibo/static/js/main.e5d82892.js",
+    "static/js/27.028a8b64.chunk.js": "/amiibo/static/js/27.028a8b64.chunk.js",
+    "index.html": "/amiibo/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.342f8746.css",
+    "static/js/main.e5d82892.js"
+  ]
+}
